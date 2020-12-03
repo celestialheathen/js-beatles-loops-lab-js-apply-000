@@ -32,6 +32,8 @@ function johnLennonFacts(facts) {
     return newFacts;
   }
 
+johnLennonFacts(["While on tour, he enjoyed playing Monopoly",
+        "Harmonica was the first instrument Lennon learned to play",])
 
   //Third problem
   let testaments = [];
