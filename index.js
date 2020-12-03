@@ -32,8 +32,9 @@ function johnLennonFacts(facts) {
     return newFacts;
   }
 
-johnLennonFacts(["While on tour, he enjoyed playing Monopoly",
-        "Harmonica was the first instrument Lennon learned to play",])
+const moreFacts = ["While on tour, he enjoyed playing Monopoly",
+        "Harmonica was the first instrument Lennon learned to play",]
+johnLennonFacts(moreFacts);
 
   //Third problem
   let testaments = [];
